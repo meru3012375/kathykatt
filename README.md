@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kathykatt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @kathykatt ,from Manila, Philippines 
+- 👀 I’m interested in learning how to build and develop websites
+- 🌱 I’m currently learning coding or on a Coding Bootcamp 
+- 💞️ I’m looking to collaborate on developing sites with Developers and Partners 
+- 📫 How to reach me: email me @ kathy.katt12@gmail.com
 
 <!---
 kathykatt/kathykatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
