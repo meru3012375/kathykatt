@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kathykatt ,from Manila, Philippines 
+- 👋 Hi, I’m @meru3012375 ,from Manila, Philippines 
 - 👀 I’m interested in learning how to build and develop websites
 - 🌱 I’m currently learning coding or on a Coding Bootcamp 
 - 💞️ I’m looking to collaborate on developing sites with Developers and Partners 
